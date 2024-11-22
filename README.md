@@ -24,8 +24,3 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=social&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=social&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Zend-05122A?style=social&logo=Zend&color=353535) ![Bootstrap](https://img.shields.io/badge/-Serverless-05122A?style=social&logo=Serverless&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=social&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=social&logo=Amazon-Web-Services&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=social&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=353535)
 
-
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
