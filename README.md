@@ -11,7 +11,7 @@
 - 💻 Working on a few Laravel projects just for fun and to keep practicing.
 - 📘 I’m currently reading [PMBOK Guide Seventh Edition](https://www.pmi.org/standards/pmbok). Check it out if interested.
 - 🌱 I also teach PHP, Relational Databases and Git for a non profit organization in my country.
-- 📫 Let's dring a coffee: fazunigan[at]gmail[dot]com
+- 📫 Let's drink a coffee: fazunigan[at]gmail[dot]com
 
 
 ### 🖥 Skills
